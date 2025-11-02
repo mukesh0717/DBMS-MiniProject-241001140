@@ -19,19 +19,25 @@ A simple Java project using JDBC and MySQL for managing college data.
 
 ---
 
-## 🖥️ How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/mukesh0717/DBMS.git
-2.Open in IntelliJ IDEA/other
-3.Update your MySQL username & password in:
-  private final String USER = "root";
-  private final String PASS = "your_password";
-4.Run LoginUI.java
+## 🚀 How to Run
 
-##🎥 Demo
+1. **Clone this repository:**
 
-    https://drive.google.com/drive/folders/1kR0wsV33_jEtSdc9x6p3NN-2_I_aVtg2?usp=sharing
+   [🌐 View Project on GitHub](https://github.com/mukesh0717/DBMS)
 
-                                      ThankYou
+2. **Open** in IntelliJ IDEA or any other Java IDE.
+
+3. **Update your MySQL username & password** in:
+   ```java
+   private final String USER = "root";
+   private final String PASS = "your_password";
+
+4. Run the file [`LoginUI.java`](src/ui/LoginUI.java) to start the application.  
+   [▶️ Click here to view the demo video](https://drive.google.com/drive/folders/1kR0wsV33_jEtSdc9x6p3NN-2_I_aVtg2?usp=sharing)
+
+   <p align="center">🙏 <b>Thank You for Visiting!</b> 🙏</p>
+
+
+
+                                      
 
